@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: mlugg/setup-zig@v1
-      - run: zig build test ./sources/zipid.tests.zig
+      - run: zig test ./sources/zipid.tests.zig
