@@ -2,6 +2,8 @@
 
 PID controller implementation in ZIG
 
+_Supports integral clamping and overflow protection_
+
 ## Usage
 
 ```zig
