@@ -1,0 +1,16 @@
+.zig-cache/
+zig-cache/
+zig-out/
+
+lib/
+
+test-cache/
+
+*.o
+*.a
+*.exe
+*.dll
+*.so
+*.dylib
+*.tmp
+*.log
